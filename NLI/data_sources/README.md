@@ -1,0 +1,1 @@
+Download MNLI, XNLI, and AmericasNLI then use this notebook to unpack them into jsons for the NLI experiments
